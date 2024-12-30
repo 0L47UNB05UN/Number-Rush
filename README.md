@@ -9,9 +9,12 @@ Number Rush is an engaging Android app where players race against the clock to s
 * Interactive UI elements: Includes radio buttons for answer selection.
 
 # Screenshots
-* Intro Screen: .\screenshot\intro.png
-* Light Mode: .\screenshot\light_mode.png
-* Dark Mode: .\screenshot\dark_mode.png
+* Intro Screen
+  ![Intro Screen](screenshot/intro.png)
+* Light Mode
+  ![Light Mode](screenshot/light_mode.png)
+* Dark Mode
+  ![Dark Mode](screenshot/dark_mode.png)
 
 # Learning Highlights
 * Number Rush incorporates various concepts and techniques from the Android Basics Compose tutorial on the Google Developer website:
